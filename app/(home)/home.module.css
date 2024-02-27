@@ -1,0 +1,11 @@
+.boxes {
+  display: flex;
+  gap: 1rem;
+}
+.box {
+  height: 25rem;
+  width: 30rem;
+  background-color: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
